@@ -1,2 +1,2 @@
 # myfirstgetrepo
-this is first repo
+this is first reposit
